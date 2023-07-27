@@ -16,3 +16,4 @@ Este repo contiene ejercicios y informacion sobre la sintaxis basica de python y
 - Tuplas
 - Diccionarios
 - Excepciones
+- Clases
